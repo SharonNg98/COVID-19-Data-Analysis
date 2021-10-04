@@ -48,10 +48,10 @@ In SQL,
 
 # Process
 ### Tools
-Excel for data partition, SQL for data cleaning and analysis, Python for data analysis, Tableau for data visualisation.
+Excel for data partition, SQL for data cleaning and analysis, Tableau for data visualisation.
 
 # Analysis 
-Click [here]() for the script.
+Click [here](https://github.com/SharonNg98/COVID-19-Data-Analysis/blob/main/covid-19-analysis.sql) for the script.
 
 # Share
 Click [here](https://public.tableau.com/views/COVID-19DataAnalysis_16333425115240/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) for the Tableau visualisations.
