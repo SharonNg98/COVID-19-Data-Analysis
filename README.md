@@ -27,7 +27,7 @@ The downloaded files are stored in a local drive but not the cloud. The website 
 
 ### Bias or Credibility
 #### Is the Data Reliable, Original, Comprehensive, Current and Cited (ROCCC)?
-- Reliable: All visualizations, data, and code produced by Our World in Data are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/).
+- Reliable: All visualizations, data, and code produced by [Our World in Data](https://ourworldindata.org/covid-deaths) are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/).
 - Original: It is a primary source.
 - Comprehensive: It covers almost all countries from 5 continents.
 - Current: It is up-to-date and is updated daily.
