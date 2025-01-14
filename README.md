@@ -61,5 +61,3 @@ Click [here](https://public.tableau.com/views/COVID-19DataAnalysis_1633342511524
 1. Alert relevant government officials about the severity of deaths and new cases development where necessary. 
 2. Send vaccines and open up more hospital beds for catering very ill patients.
 3. Create incentives (e.g. cash rewards) to boost vaccination rates in lowly vaccinated countries/regions.
-
-**Credits:** This project was inspired by [Alex Freburg](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg). Some codes were borrowed from him but for most of the part, they were my original codes.
